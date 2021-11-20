@@ -42,7 +42,7 @@ Book Cricket have features like:
 
 # **SWOT Analysis**
 
-[![]
+![swot drawio](https://user-images.githubusercontent.com/94311905/142733000-c33e0582-3268-4f15-a182-c8be251528eb.png)
 
 # **4 W&#39;s and 1 H**
 
