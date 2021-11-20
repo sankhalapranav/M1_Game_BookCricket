@@ -27,11 +27,9 @@ The project is titled as  **Book Cricket Game**  and developed using C language.
 
 **FLOW CHART**
 
-[![](RackMultipart20211120-4-1k78z9c_html_9f3012c07eb07af7.png)](https://github.com/pavankalyanmedishetty/stepin_bookcricket/blob/fd71077b2e1ba071e5c02a8038fdc9f57f6477ff/6_ImagesAndVideos/flowchart.png)
+![flowchart](https://user-images.githubusercontent.com/94311905/142732594-701eb0b4-1592-4641-b38d-725eeb3fa118.png)
 
-**Defining our System**
-
-[![](RackMultipart20211120-4-1k78z9c_html_b147aed1b7f4c7b.jpg)](https://github.com/pavankalyanmedishetty/stepin_bookcricket/blob/a24efdfd52ca8a0566b0f490b0379560af9f9b00/6_ImagesAndVideos/bookcricket.jpg)
+# **Defining our System**
 
 Book Cricket have features like:
 
@@ -42,9 +40,9 @@ Book Cricket have features like:
 - Announcing the winner of the game according to their score.
 - Display the name of the winner.
 
-**SWOT Analysis**
+# **SWOT Analysis**
 
-[![](RackMultipart20211120-4-1k78z9c_html_3542ac1c2da68200.png)](https://github.com/pavankalyanmedishetty/stepin_bookcricket/blob/0e8f94370d58e5b8eda09c10b1b65df89c25516e/6_ImagesAndVideos/swot.drawio.png)
+[![]
 
 # **4 W&#39;s and 1 H**
 
