@@ -5,8 +5,7 @@
 [![C/C++ CI](https://github.com/sankhalapranav/M1_Game_BookCricket/actions/workflows/c_build.yml/badge.svg)](https://github.com/sankhalapranav/M1_Game_BookCricket/actions/workflows/c_build.yml)
 [![Unit testing](https://github.com/sankhalapranav/M1_Game_BookCricket/actions/workflows/unity.yml/badge.svg)](https://github.com/sankhalapranav/M1_Game_BookCricket/actions/workflows/unity.yml)
 [![Valgrind](https://github.com/sankhalapranav/M1_Game_BookCricket/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/sankhalapranav/M1_Game_BookCricket/actions/workflows/Valgrind.yml)
-[![cppcheck-action](https://github.com/sankhalapranav/M1_Game_BookCricket/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/sankhalapranav/M1_Game_BookCricket/actions/workflows/cppcheck.yml)
-##MINI PROJECT ON BOOK\_CRICKET
+[![cppcheck-action](https://github.com/sankhalapranav/M1_Game_BookCricket/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/sankhalapranav/M1_Game_BookCricket/actions/workflows/cppcheck.yml)T
 [![](RackMultipart20211123-4-1yv7zvb_html_b147aed1b7f4c7b.jpg)](https://github.com/pavankalyanmedishetty/stepin_bookcricket/blob/37f8c6ce7ad83105ff7583f4f18c49c49d0820a7/6_ImagesAndVideos/bookcricket.jpg)
 
 **Folder Structure**
